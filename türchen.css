@@ -1,0 +1,32 @@
+h2 {
+    color: #FFB480;
+    font-family: Bookman, URW Bookman L, serif;
+    font-size: 15px
+        
+    
+   }
+   
+body {
+ background-color: #EA4630
+}
+
+h1 {
+    position: relative;
+ left: 70px; top: -10px;
+   font-size: 25px;
+   color: #FFB480;
+    font-family: monospace;
+    font-variant: small-caps;
+    font-weight: 200;
+    letter-spacing: 0.1em;
+        width: 1100px
+}
+
+button {
+    background-color: #FFB480;
+    padding: 60px 50px;
+    font-family: monospace;
+    border: 0px;
+    border-radius: 80px;
+    color: #B22222
+}
